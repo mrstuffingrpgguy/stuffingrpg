@@ -1,0 +1,71 @@
+[
+    {
+    "id" : 0,
+    "name": "",
+    "type": 0,
+    "lvl": 0,
+    "obj": [
+    ],
+    "res": [
+    ],
+    "desc": [
+    ]
+    },
+
+    {
+    "id": 1,
+    "name": "Meet your friend",
+    "type": 0,
+    "lvl": 1,
+    "obj": [
+    [
+    "Go to the city of Decadandia",
+    "and find Lotta"
+    ]
+    ],
+    "res": [
+    "Lotta was in the inn."
+    ],
+    "desc": [
+    "You haven't speak with your",
+    "friend Lotta for a long time.",
+    "She should be in Decadandia,",
+    "city northwest of the town",
+    "you're now in.",
+    " ",
+    "Besides she's a glutton who",
+    "needs someone to feed",
+    "her tummy =w="
+    ]
+    },
+    
+    {
+    "id" : 2,
+    "name": "Dissappearence of Lina",
+    "type": 0,
+    "lvl": 1,
+    "obj": [
+    "Look outside Pellettown for Lina",
+    [ 
+    "Find some clothes and give",
+    "them to Lina"
+    ],
+    "Kill the cupcake golem"
+    ],
+    "res": [
+    [
+    "Lina is safe and sound and",
+    "weights a tonne. Now who will",
+    "resque her from Lana's endless",
+    "feeding?"
+    ]
+    ],
+    "desc": [
+    "Girl named Lana offered you",
+    "nice reward for finding her",
+    "sister. It should be a piece of",
+    "cake, she's probably lost",
+    "somewhere near the town."
+    ]
+    }
+]
