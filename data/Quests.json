@@ -67,5 +67,36 @@
     "cake, she's probably lost",
     "somewhere near the town."
     ]
+    },
+    
+    {
+    "id" : 3,
+    "name": "Cupcake girl",
+    "type": 1,
+    "lvl": 1,
+    "obj": [
+    "Cupcakes in inventory: {cup}",
+    "Give the girl cupcakes: {cupcakes}/5",
+    "???",
+    [
+    "Find a way to 'work' off",
+    "this extra blubber ( ͡° ͜ʖ ͡°)"
+    ]
+    ],
+    "variables": {
+    "cup": 0,
+    "cupcakes": 0
+    },
+    "res": [
+    ],
+    "desc": [
+    "After loosing all her money",
+    "in poker game, this poor girl",
+    "stands outside of the inn,",
+    "only in underwear.",
+    "Maybe some cupcakes will",
+    "sweeten her life?"
+    ]
     }
+    
 ]
